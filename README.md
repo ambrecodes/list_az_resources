@@ -1,11 +1,11 @@
 # list_az_resources
 python script to list active azure resources
 
-#prerequisites
+# prerequisites
 
 login to your azure CLI (az login)
 
-#Running the Script
+# Running the Script
 To execute the updated script, use:
 
 python list_vms.py
